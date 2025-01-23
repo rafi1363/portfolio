@@ -142,9 +142,10 @@ section a {
 
   section p,
   section ul,
-  section li {
+  section li,
+  section a {
     font-size: 14px; /* Reduce text size for better readability on smaller screens */
-    padding: 10px;
+    margin-left: 5px;
   }
 }
 
@@ -161,9 +162,10 @@ section a {
 
   section p,
   section ul,
-  section li {
+  section li,
+  section a {
     font-size: 12px; /* Further reduce font size for compact screens */
-    padding: 10px;
+    margin-left: 5px;
   }
 }
 
