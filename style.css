@@ -125,6 +125,7 @@ section a {
   color: #555;
   line-height: 1.6;
   margin: 10px 0;
+  padding: 10px;
 }
 
 /* Responsive Styling */
@@ -143,6 +144,7 @@ section a {
   section ul,
   section li {
     font-size: 14px; /* Reduce text size for better readability on smaller screens */
+    padding: 10px;
   }
 }
 
@@ -161,6 +163,7 @@ section a {
   section ul,
   section li {
     font-size: 12px; /* Further reduce font size for compact screens */
+    padding: 10px;
   }
 }
 
